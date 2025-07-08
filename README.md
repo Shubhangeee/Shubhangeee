@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/33372f5c-8c28-4788-8c46-32984a19b34e)![image](https://github.com/user-attachments/assets/92db4177-63ec-4c06-be82-b78f1b40580a)<h1 align="center">Hi 👋, I'm Shubhangi Ojha</h1>
+
+<h1 align="center">Hi 👋, I'm Shubhangi Ojha</h1>
 <h3 align="center">Crafting intelligent systems that connect advanced machine learning with clean, modern web experiences.</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg">
