@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Ojha</h1>
 <h3 align="center">Crafting intelligent systems that connect advanced machine learning with clean, modern web experiences.</h3>
 
-<img align="right" alt="coding" width="600" src="https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg">
+<img align="center" alt="coding" width="700" src="https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangeee" alt="shubhangeee" /></a> </p>
 
