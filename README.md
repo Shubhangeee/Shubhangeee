@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/33372f5c-8c28-4788-8c46-32984a19b34e)![image](https://github.com/user-attachments/assets/92db4177-63ec-4c06-be82-b78f1b40580a)<h1 align="center">Hi 👋, I'm Shubhangi Ojha</h1>
 <h3 align="center">Crafting intelligent systems that connect advanced machine learning with clean, modern web experiences.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5bsBDFcdPMYqC4rHNALrTl8jbP5TNFbikA&s](https://www.tlciscreative.com/wp-content/uploads/2024/08/A.I-2.gif)](https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg)">
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhangeee" alt="shubhangeee" /></a> </p>
 
